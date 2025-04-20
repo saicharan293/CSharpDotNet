@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\C#\\FinanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\data\\services\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\services\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\data\\services\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\services\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|d:\\downloads\\c#\\financeapp\\financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70294218-8B9A-498D-9331-31D41A31952D}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpensesService.cs",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Data\\Services\\ExpensesService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Services\\ExpensesService.cs",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Data\\Services\\ExpensesService.cs*",
+              "RelativeToolTip": "FinanceApp\\Data\\Services\\ExpensesService.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:24:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Data\\Services\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Services\\IExpenseService.cs",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Data\\Services\\IExpenseService.cs*",
+              "RelativeToolTip": "FinanceApp\\Data\\Services\\IExpenseService.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:22:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:59:34.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Views\\Expenses\\Index.cshtml*",
+              "RelativeToolTip": "FinanceApp\\Views\\Expenses\\Index.cshtml*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:28:29.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Controllers\\ExpensesController.cs",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Controllers\\ExpensesController.cs*",
+              "RelativeToolTip": "FinanceApp\\Controllers\\ExpensesController.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:25:01.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Program.cs",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "FinanceApp\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:08:54.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FinanceApp\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\appsettings.json",
+              "RelativeToolTip": "FinanceApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAkAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T16:06:34.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinanceAppContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\FinanceAppContext.cs",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\FinanceAppContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:54:34.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Models\\Expense.cs",
+              "ToolTip": "D:\\Downloads\\C#\\FinanceApp\\FinanceApp\\Models\\Expense.cs",
+              "RelativeToolTip": "FinanceApp\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:24:58.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
