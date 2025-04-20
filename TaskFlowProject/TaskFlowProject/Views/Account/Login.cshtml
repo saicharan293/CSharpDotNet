@@ -1,0 +1,11 @@
+﻿@model TaskFlowProject.Models.LoginViewModel
+
+<h2>Login</h2>
+
+<form asp-action="Login" method="post">
+    <label asp-for="Email" class="form-label">Email</label>
+    <input asp-for="Email" class="form-control"/>
+    <label asp-for="Password" class="form-label">Password</label>
+    <input asp-for="Password" class="form-control" placeholder="Enter password" /> <br />
+    <button class="btn btn-primary">Login</button>
+</form>

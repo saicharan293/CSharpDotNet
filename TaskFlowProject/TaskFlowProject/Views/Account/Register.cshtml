@@ -1,0 +1,17 @@
+﻿@model TaskFlowProject.Models.RegisterViewModel
+
+<h2>Register </h2>
+
+<form asp-action="Register" method="post">
+    <label asp-for="Email" class="form-label">Email</label>
+    <input asp-for="Email" class="form-control" placeholder="Enter Email" /> <br />
+    <label asp-for="Password" class="form-label">Password</label>
+    <input asp-for="Password" class="form-control" placeholder="Enter password"/> <br/>
+    <label asp-for="Role" class="form-label">Role</label>
+    <select asp-for="Role" class="form-select">
+        <option>Employee</option>
+        <option>Manager</option>
+        <option>Admin</option>
+    </select><br />
+    <button class="btn btn-primary">Register</button>
+</form>
